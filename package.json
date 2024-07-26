@@ -1,0 +1,13 @@
+{
+  "name": "gulp-htmlmin",
+  "description": "AWS Lambda@Edge Experiment",
+  "version": "0.0.1",
+  "author": {
+    "name": "Alex Casalboni",
+    "url": "https://github.com/alexcasalboni/"
+  },
+  "dependencies": {
+    "plates": "0.4.11",
+    "html-minifier": "3.3.1"
+  }
+}
